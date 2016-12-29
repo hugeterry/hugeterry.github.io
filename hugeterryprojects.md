@@ -31,7 +31,7 @@ UpdateFun是一个[fir.im](http://fir.im/)的Android更新下载模块，在[fir
 
 ----
 ##猩印APP
-[APP下载](https://fir.im/xingpostcard)
+[APP下载](https://fir.im/starmark)
 [星空学生创新中心](http://www.xingkong.us/)2015毕业季纪念产品
 一个制作学校动漫图片，测试大学完成度的APP
 
