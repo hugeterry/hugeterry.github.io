@@ -26,7 +26,7 @@ UpdateFun是一个[fir.im](http://fir.im/)的Android更新下载模块，在[fir
 
 ----
 ##星名片APP
-[APP介绍及下载](http://www.xingkong.us/starcard/)
+[APP介绍及下载](http://www.xingkong.us/home/starcard/)
 [星空学生创新中心](http://www.xingkong.us/)面向校园通讯录app，后端为组织内部成员开发，目前已有组织班级超过20+组织，2000+成员下载使用该产品
 
 ----
